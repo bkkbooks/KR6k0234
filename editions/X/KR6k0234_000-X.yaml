@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0234/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 八關齋法
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1130.xml
+    old_id: X60n1130
+hash: sha256:2bcfa01e01e69a4b7acbf0e7876eb049f96e94bb22acad0805e07bd8efb96e05
